@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "municipio": "Medellín",
+      "departamento": "Antioquia",
+      "numeroCasos": 412988,
+      "numeroMujeres": 220818,
+      "numeroHombres": 192170,
+      "numeroRecuperados": 401502
+    },
+    {
+      "id": 2,
+      "municipio": "Guarne",
+      "departamento": "Antioquia",
+      "numeroCasos": 5210,
+      "numeroMujeres": 2709,
+      "numeroHombres": 2501,
+      "numeroRecuperados": 5065
+    },
+    {
+      "id": 3,
+      "municipio": "Itaguí",
+      "departamento": "Antioquia",
+      "numeroCasos": 49044,
+      "numeroMujeres": 25953,
+      "numeroHombres": 23091,
+      "numeroRecuperados": 48114
+    },
+    {
+      "id": 4,
+      "municipio": "Turbaco",
+      "departamento": "Antioquia",
+      "numeroCasos": 49044,
+      "numeroMujeres": 25953,
+      "numeroHombres": 23091,
+      "numeroRecuperados": 48114
+    },
+    {
+      "id": 5,
+      "municipio": "Bello",
+      "departamento": "Antioquia",
+      "numeroCasos": 49044,
+      "numeroMujeres": 25953,
+      "numeroHombres": 23091,
+      "numeroRecuperados": 48114
+    }
+  ]

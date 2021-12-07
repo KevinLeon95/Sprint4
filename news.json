@@ -1,0 +1,27 @@
+[
+    {
+      "titulo": "Un título de covid19",
+      "contenido": "cualquier contenido",
+      "url": "http://url/noticia.php"
+    },
+    {
+      "titulo": "Otro título de coronavirus",
+      "contenido": "cualquier contenido",
+      "url": "http://url/noticia.php"
+    },
+    {
+      "titulo": "Otro título de pandemia",
+      "contenido": "cualquier contenido de covid19",
+      "url": "http://url/noticia.php"
+    },
+    {
+      "titulo": "Otro título de futbol",
+      "contenido": "cualquier contenido con Messi",
+      "url": "http://url/noticia.php"
+    },
+    {
+      "titulo": "Otro título de fúlbol",
+      "contenido": "cualquier contenido que dice a a Messi le dió coronavirus",
+      "url": "http://url/noticia.php"
+    }
+  ]
